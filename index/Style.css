@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+}
+
+.logo{
+    width: 10%;
+    height: auto;
+    margin: 0px;
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+
+.links{
+    margin: 0px;
+    position: absolute;
+    top: 35px;
+    right: 20px;
+}
+
+.link{
+    padding: 20px;
+    font-size: 15px;    
+}
+
+a.link{
+    text-decoration: none;
+    color: black;
+}
+
+.all{
+    font-family: "Raleway";
+    font-size: 40px;
+}
+
+.fylo{
+    font-family: "Open-Sans"
+}
+
+.illustration-1{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+.illustration-2{
+    width: 100%;
+    height: auto;
+    background-color: none;
+}
+
+.button{
+    background-color: blue;
+    color: aliceblue;
+    width: 150px;
+    height: 25px;
+}
+
+.text{
+    color: gray;
+    width: 175px;
+    height: 20px;
+}
+
+.cloud{
+    background-image: url(images/bg-curve-desktop.svg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 3000px 1000px;
+}
+
+.middle{
+    size: 500px;
+    margin: 0px;
+    position: relative;
+}
+
+.stay{
+    font-size: 40px;
+
+    font-family: "Open-Sans"
+    
+}
+
+.never{
+    font-weight:400 ;
+    font-family: "Open-Sans"
+}
+
+a.green{
+    
+    color: rgb(11, 121, 26);
+}
+
+.Quotes-box{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(199, 193, 193);
+    position: absolute;
+    left: 100px;
+    width: 300px; 
+    height: 200px;
+}
+
+.man{
+    width: 50px;;
+    border-radius:100% ;
+}
+
+.get{
+    color: white;
+    font-size: 30px;
+    font-family: "Raleway"
+    
+}
+
+.it{
+    font-family: "Open-Sans";
+    color: white;
+    
+}
+
+.quotes{
+    margin-top: 0px;
+    padding: 20px;
+}
+
+.bottom{
+    background-color: hsl(238, 22%, 44%);
+    padding: 100px;
+}
+
+.email{
+    color: grey;
+    font-size: 10px;
+    width: 275px;
+    height: 20px;
+}
+
+.getstarted{
+    background-color: hsl(236, 64%, 55%);
+    color: aliceblue;
+    width: 150px;
+    height: 25px;
+}
+
+.bottom-last{
+    background-color: hsl(243, 87%, 12%);
+    font-family: "Open-Sans";
+    
+}
+
+.icon{
+    width: 10%;
+    
+}
+
+a.ajpb{
+    text-decoration: none;
+    color:white;
+}
